@@ -17,10 +17,10 @@
 - **商品**：“PAPER CRAFT, LITTLE BIRDIE”销售额约 16 万英镑。
 
 ## 可视化
-- [月度 GMV 趋势](figures/monthly_gmv_trend.png)
-- [客户消费金额分布](figures/monetary_distribution.png)
-- [销售额 Top 10 商品](figures/top_10_products.png)
-- [12 月每日 GMV 和订单量](figures/december_gmv_orders.png)
+- [月度 GMV 趋势](../output/figures/monthly_gmv_trend.png)
+- [客户消费金额分布](../output/figures/monetary_distribution.png)
+- [销售额 Top 10 商品](../output/figures/top_10_products.png)
+- [12 月每日 GMV 和订单量](../output/figures/december_gmv_orders.png)
 
 ## 建议
 - 增强 11 月节假日促销。
@@ -28,5 +28,5 @@
 - 优化畅销商品库存。
 
 ## 数据局限性
-- 2010 年 12 月：缺失 24-31 日数据。
+- 2010 年 12 月：缺失 24-31 日数据，所以圣诞节前夕GMV趋势分析有不准确的风险性
 - 2011 年 12 月：缺失 10-31 日数据，低估节假日销售。

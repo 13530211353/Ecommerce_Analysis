@@ -7,7 +7,7 @@
 - 使用 Matplotlib/Seaborn 进行可视化。
 
 ## 结果
-查看 [报告](output/report.md)。
+查看 [报告](../output/report.md)。
 
 ## 数据集
 [Online Retail Dataset](https://www.kaggle.com/datasets/ulrikthygepedersen/online-retail-dataset)
